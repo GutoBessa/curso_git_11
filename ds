@@ -1,0 +1,47 @@
+[33mcommit 6398e175d7cf8128b6df7276f40194e7cd80d803[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Luiz Bessa <luiz-augustosouza@hotmail.com>
+Date:   Wed Dec 27 07:50:36 2023 +0000
+
+    Removendo parte desnecessária
+
+[33mcommit c67412e402011264ccc851b6d5dfb158c0c84180[m
+Author: Luiz Bessa <luiz-augustosouza@hotmail.com>
+Date:   Wed Dec 27 07:45:46 2023 +0000
+
+    Exluindo arquivo desnecessário
+
+[33mcommit ec86dd103b7e0697c119029a04fad8530b581b16[m
+Author: Luiz Bessa <luiz-augustosouza@hotmail.com>
+Date:   Wed Dec 27 07:05:37 2023 +0000
+
+    Enviando arquivo para o clone
+
+[33mcommit 465d8337bf6a3830f81b4eb8b764971835ad696d[m
+Author: Luiz Bessa <154417608+GutoBessa@users.noreply.github.com>
+Date:   Mon Dec 25 12:51:39 2023 +0000
+
+    Update teste.txt
+
+[33mcommit 743548c94435ac39e4277c5ed4512ef7aa246201[m
+Author: Luiz Bessa <154417608+GutoBessa@users.noreply.github.com>
+Date:   Mon Dec 25 12:49:05 2023 +0000
+
+    Create About.html
+
+[33mcommit 046de73d444a92c705e9dd53a27de1eecc0ff670[m
+Author: Luiz Bessa <luiz-augustosouza@hotmail.com>
+Date:   Mon Dec 25 11:57:04 2023 +0000
+
+    Enviando a funcionalidade x
+
+[33mcommit 6d397bf99fcb9a82675961d3c77cdc89ff9ab5af[m
+Author: Luiz Bessa <luiz-augustosouza@hotmail.com>
+Date:   Mon Dec 25 11:49:49 2023 +0000
+
+    Estou enviando o arquivo de texto
+
+[33mcommit 5e59b40b0b699007b8305ab6d92f5a9302dd0085[m
+Author: Luiz Bessa <luiz-augustosouza@hotmail.com>
+Date:   Fri Dec 22 08:16:14 2023 +0000
+
+    Hello world git
